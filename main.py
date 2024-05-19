@@ -4,6 +4,7 @@ from fastapi.responses import FileResponse
 import socketio
 
 from paths import index
+from paths import registration
 
 fastapi = FastAPI()
 fastapi.include_router(index.router)

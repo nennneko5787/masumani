@@ -3,4 +3,3 @@ jinja2
 python-dotenv
 asyncpg
 python_socketio
-jinja2
